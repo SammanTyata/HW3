@@ -1,7 +1,6 @@
 //
 //  HW3App.swift
 //  HW3
-//
 //  Created by Samman Tyata on 11/3/24.
 //
 
